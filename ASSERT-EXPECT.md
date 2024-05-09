@@ -19,6 +19,7 @@ Assertion macros :
 8) EXPECT_LT (av, ev) : Lesser Than
 9) EXPECT_GE (av, ev) : Greater or Equal
 10) EXPECT_LE (av, ev) : Lesser or Equal
+    
 
 1) ASSERT_TRUE (condition)
 2) ASSERT_FALSE (condition)
@@ -30,3 +31,5 @@ Assertion macros :
 8) ASSERT_LT (av, ev)
 9) ASSERT_GE (av, ev)
 10) ASSERT_LE (av, ev)
+
+NOTE : av = actual value ; ev = expected value
